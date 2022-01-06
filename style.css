@@ -1,0 +1,175 @@
+body
+{
+    background-color: gainsboro;
+}
+#upper-section
+{
+    display: flex;
+    margin-left: 20px;
+
+}
+.half-width
+{
+    width: 50%;
+    margin-left: 100px;
+  
+}
+
+.half-width img
+{
+    width: 65%;
+    margin-top: 100px;
+}
+#s-focus
+{
+    margin-top:150px;
+    border-left: 4px solid;
+    border-image: linear-gradient( tomato, tomato);
+    border-image-slice:1;
+    border-radius: 5px;
+    font-size: 40px;
+    font-family: 'Caladea', serif;
+    padding-left: 8px;
+}
+
+#mission
+{
+    color: orange;
+}
+.about
+{
+    text-align: justify;
+    padding-right: 70px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 20px;
+}
+#scroll
+{
+    text-align: justify;
+    padding-right: 70px;
+    font-family: 'Prompt', sans-serif;
+    font-size: 15px;
+}
+.btn
+{
+   background-color: orangered;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-weight: 400;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Signika Negative', sans-serif;
+   
+}
+#my-mission
+{
+    text-align: center;
+    margin: 100px;
+    font-size: 30px;
+    font-family: 'Prompt', sans-serif;
+}
+#my-mission span
+{
+    color: orange;
+}
+#vission-mission-goal
+{
+    display: flex;
+    margin-left: 70px;
+}
+#one-thard-one
+{
+    width: 30%;
+    margin-left: 40px;
+    padding-right: 20px;
+    background-color:#d4ebf5;
+    border-radius: 20px;
+    padding-left: 20px;
+    font-family: 'Hind', sans-serif;
+    text-align: justify;
+}
+#one-thard-one img
+{
+    width: 60%;
+}
+#one-thard-two
+{
+    width: 30%;
+    margin-left: 40px;
+    background-color: papayawhip;
+    border-radius: 20px;
+    padding-left: 20px;
+    font-family: 'Hind', sans-serif;
+    padding-right: 20px;
+    text-align: justify;
+}
+#one-thard-two img
+{
+    width: 50%;
+}
+#one-thard-three
+{
+    width: 30%;
+    margin-left: 40px;
+    background-color: peachpuff;
+    border-radius: 20px;
+    padding-left: 20px;
+    font-family: 'Hind', sans-serif;
+    text-align: justify;
+    padding-right: 20px;
+}
+#one-thard-three img
+{
+    width: 50%;
+}
+
+#develop
+{
+    margin: 100px 110px;
+    display: flex;
+}
+
+.half-box
+{
+    width: 50%;
+}
+.half-box img
+{
+    width: 65%;
+}
+.half-box h1
+{
+    font-size: 40px;
+    font-family: 'Hind', sans-serif;
+}
+#know-us
+{
+    display: flex;
+}
+#know-us h1
+{
+    font-size: 40px;
+    font-family: 'Hind', sans-serif;
+}
+.know-us-box{
+    margin-left: 110px;
+    width: 50%;
+}
+.know-us-box img
+{
+    width: 65%;
+}
+#tour-app
+{
+    display: flex;
+    margin: 100px 110px;
+}
+.tour-app-box
+{
+width: 50%;
+}
+.tour-app-box img
+{
+    border-radius: 20px;
+}
+
