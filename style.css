@@ -159,6 +159,17 @@ body
 {
     width: 65%;
 }
+#build
+{
+    text-align: center;
+    margin: 100px;
+    font-size: 35px;
+    font-family: 'Hind', sans-serif;
+}
+#build span
+{
+ color: orange;
+}
 #tour-app
 {
     display: flex;
