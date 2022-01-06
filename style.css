@@ -183,4 +183,12 @@ width: 50%;
 {
     border-radius: 20px;
 }
-
+.tour-app-box h1
+{
+    font-size: 35px;
+    font-family: 'Hind', sans-serif;
+}
+.tour-app-box span
+{
+    color: orange; 
+}
