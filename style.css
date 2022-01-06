@@ -1,6 +1,8 @@
 body
 {
     background-color: gainsboro;
+    margin: 0;
+    padding: 0;
 }
 #upper-section
 {
@@ -191,4 +193,28 @@ width: 50%;
 .tour-app-box span
 {
     color: orange; 
+}
+footer{
+    margin-top: 60px;
+    background-color: black;
+    padding: 15px;
+}
+footer h1
+{
+    color: white;
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 35px;
+
+}
+footer h1 span
+{
+    color:tomato;
+}
+footer p
+{
+    font-family: 'Hind', sans-serif;
+    color: whitesmoke;
+    text-align: center;
+
 }
